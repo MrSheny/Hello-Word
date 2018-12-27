@@ -32,11 +32,23 @@
     java知识点：（这一部分内容量真的很大好好学习）
         1.什么叫面向对象，你是怎么理解的，三大特性的理解（封装继承和多态）。
         2.位操做，访问权限控制（public,private,protected,包？），数组，字符串（正则表达），基本类型，泛型，枚举。
-        3.容器，IO，Socket，并发。
-        4.jvm
+        3.容器，
+        4.IO（磁盘），
+        5.Socket（网络io）.（netty）
+        6.并发。
+        7.jvm(深入理解jvm)
 
 
 四. spring，MVC,mybatis
+
+    spring:
+        1. spring 的启动流程，
+        2.spring bean 的作用域，
+        3.spring 注解实现原理
+        4.beanFactory 和 FactoryBean的区别
+        5.事务
+        6. AOP 和 ioc 各自的原理，ioc实现原理没有无参构造函数可以实现注入吗？
+        7.反射具体怎么实现的，方法区，然后类加载机制（双亲，双亲的破坏）。
 
 五. tomcat
 
@@ -44,4 +56,4 @@
 
 七. 剑指offer 和 leetcode
 
-八. 项目
+八. 项目(docker，zookeeper，kafka,dubbo/spring-cloud)

@@ -63,6 +63,9 @@
 
 五. tomcat的一些回答：
 
+    tomacat 都有哪些功能。
+    怎么调优。
+
 
 
 六. 深入理解计算机系统 和计算机网络
@@ -73,14 +76,24 @@
        http 和 tcp 的问题：
               http 分为 请求（request） 和 响应（response）， 请求分为请求行，请求头，请求体，响应与之对应。
               请求头 和 请求行 里面分别包含什么内容。 响应头和响应行里面分别包含什么内容。
-              http  和 https：
-              tcp 粘包问题， 数据流切分按什么规则来切分的？ Tcp图。
+              http  和 https区别：
+              
+              tcp 粘包问题， 数据流切分按什么规则来切分的？tcp 和 udp 的区别， Tcp图。
+              
+              滑动窗口和拥塞控制：
+              
+              
 
-
+  计算机系统：
+  
+  
+  
    
 
 七.数据结构与算法：
     
     剑指offer 和 leetcode
+    
+    
 
 八. 项目(docker，zookeeper，kafka,dubbo/spring-cloud)

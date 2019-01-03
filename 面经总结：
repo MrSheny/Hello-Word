@@ -107,7 +107,19 @@
 
 七.数据结构与算法：
     
-    剑指offer 和 leetcode
+  剑指offer 和 leetcode
+  
+    剑指offer 题目分类：
+      1.数组，链表，二叉树。
+      
+      2.动态规划，回溯和贪心。
+    
+    基本的排序查找算法：
+    
+    LRU 算法的实现（加一些限制条件）：
+       可以使用Linkedhashmap 来实现 ， 复习java 中 hashmap treemap 和 linkedhashmap 的区别以及他们各自的作用。
+    
+    
     
     
 

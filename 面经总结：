@@ -18,7 +18,7 @@
         
         
 
-    1.2myisam 和 innodb 的区别：
+    1.2  mysql存储引擎 myisam 和 innodb 的区别：
 
          答： 1.innodb 行锁，怎么使用，失效条件，等等。(创建索引语句怎么创建（sql单列，组合，唯一，全文，bimap等等）)
 

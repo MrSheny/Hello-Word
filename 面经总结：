@@ -2,7 +2,7 @@
 
     数据库基础：
             关系型标准数据库语言 SQL.(很重要必须要学好)
-            
+            https://c.isme.pub/categories/db/mysql/
             
     1.1 mysql 的优化 和 基本操做：
         优化： 1） 查询优化， 查询优化和数据库执行SQL语句的过程密切相关。如下
